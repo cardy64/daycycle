@@ -1,0 +1,6 @@
+name: daycycle
+version: ${project.version}
+main: me.miloapplechief.daycycle.Daycycle
+api-version: 1.13
+authors: [MiloAppleChief]
+description: A plugin that allowes you to change the time that a full day-night cycle takes

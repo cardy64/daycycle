@@ -1,0 +1,5 @@
+worlds:
+  - name: world1_name
+    minutes: 20
+  - name: world2_name
+    minutes: 40
